@@ -9,3 +9,5 @@ following algorithms:
 4. XGBoost Classifier
 
 All the algorithms have been fit using paramter grid to find the most accurate hyperparameter.
+
+Data has been sourced from Kaggle. For more info, please read AboutData.info file.b
