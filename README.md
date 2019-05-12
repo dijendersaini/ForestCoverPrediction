@@ -7,6 +7,7 @@ following algorithms:
 2. SVM
 3. Random Forest
 4. XGBoost Classifier
+5. Gaussian Naive Bayes
 
 All the algorithms have been fit using paramter grid to find the most accurate hyperparameter.
 
